@@ -1,1 +1,1 @@
-#Hello... You have reached super fucking code wizard lizard.
+#Hello... You have reached the code.
