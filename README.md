@@ -1,4 +1,4 @@
 #Hello... You have reached the code.:x
-https://img.freepik.com/premium-photo/phoenix-bird-fire-mythological-fenix-bird-with-flames-fantasy-illustration_691560-3557.jpg?w=2000
-=======
+![image](https://github.com/Tribeoftech/Tribeoftech/assets/113186733/7a7859e4-309f-4d6c-9790-e526d6434992)
+
 
