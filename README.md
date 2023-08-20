@@ -1,36 +1,6 @@
-<html>
- <head>
-     <style>
-     .table-container {
-          margin: 0 auto;
-          width: 95%;
-          max-width: 1100px;
-          border-collapse: collapse;
-          color: white;
-      }
- .header {
-          text-align: center;
-          padding: 100px 0;
-      }
-      .table-container th, .table-container td {
-          padding: 20px;
-          text-align: center;
-          background-color: transparent;
-          animation: neon-pulse 1s infinite alternate;
-          text-shadow: 0 0 10px rgba(255, 0, 204, 0.8), 0 0 20px rgba(51, 51, 255, 0.8), 0 0 30px rgba(255, 0, 204, 0.8);
-          border: none;
-      }
-     
-  </style>
-  <title>Neon Text and Table</title>
-</head>
-<body>
-  <div class="header">
-      <h1 class="neon-border">Fruits</h1>
-  </div>
-      </div>
+
   </div><h1 align="center">Hi 👋, I'm Alex! Great to meet you!</h1>
-<h3 align="center">you have reached the "placeholder." I am dedicated to continuous development as an engineer, and I look forward to getting to know you on my journey in this new world.
+<h3 align="center">Welcome to my Work collection. Feel free to look around at my projects and reachout anytime! I am dedicated to continuous development as an engineer, and I look forward to getting to know you on my journey in this new world.
  <img sizes="(max-width: 767px) 100vw, 100vw" srcset="https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=467&q=80 467w, https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=767&q=80 767w, https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=934&q=80 934w, https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1067&q=80 1067w, https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1367&q=80 1367w, https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1534&q=80 1534w, https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1667&q=80 1667w, https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1967&q=80 1967w, https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2134&q=80 2134w, https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2160&q=80 2160w" src="https://images.unsplash.com/photo-1627012441283-79151a20adf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="man standing on rock formation during night time" class="tB6UZ a5VGX" style="aspect-ratio: 2160 / 2688;">
 
 
