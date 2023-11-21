@@ -39,8 +39,8 @@ const Alex = {
 
 <div align="center">
 
-[![Linkedin: ALex Dipboye](
-[![Email: Alex Dipboye](
+[![Linkedin: ALex Dipboye](https://www.linkedin.com/in/alexdipboye/)
+[![Email: Alex Dipboye](Gratefulgrowing333@gmail.com)
 </div>
   
 <div align="center">
