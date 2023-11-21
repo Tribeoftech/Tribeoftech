@@ -27,6 +27,7 @@ const Alex = {
     
 };
 ```
+![image](https://github.com/Tribeoftech/Tribeoftech/assets/113186733/c40cad0e-656b-44aa-9287-99f13b09bc92)
 
 <p align="center">
     <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="img" class="center" align="center" width="100px">
