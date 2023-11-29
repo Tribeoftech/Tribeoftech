@@ -21,11 +21,9 @@ const Alex = {
         databases: ["SQL", "MySQL", "NoSQL", "PostgreSQL", "Redis"],
         environments: ["Unix", "Linux", "Windows", "Android", "iOS"],
         tools: ["Git", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Figma", "Postman", "DBeaver",
-        "Xcode", "React DevTools", "Redux-DevTools"]
-    },
-    hobbies: ["Cycling", "Coffee shops", "Camping", "Strategy games"],
-    
-};
+        "Xcode", "React DevTools", "Redux-DevTools"]   },{    hobbies: ["Cycling", "Coffee shops", "Camping", "Strategy games"],};
+
+![Tribeoftech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tribeoftech&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)	
 ```
 ![image](https://github.com/Tribeoftech/Tribeoftech/assets/113186733/c40cad0e-656b-44aa-9287-99f13b09bc92)
 
