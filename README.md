@@ -9,19 +9,18 @@ const Alex = {
     pronouns: "He" | "Him",
     codingLanguages: ["Javascript", "Typescript","Swift", "Python", "HTML", "CSS", "SQL", "C"],
     currentlyLearning: ["Swift", "React", "C#", "TypeScript"],
-    askMeAbout: ["Web Development", "Front-End", "Design", "Electronic Music", "MMOs"],
+    askMeAbout: ["Tech Events", "Web Development", "Front-End", "Design", "Music", "PLants"],
     technologies: {
         frontEnd: ["HTML", "CSS", "SASS/SCSS", "React", "Bootstrap", "Tailwind"],
-        backEnd: {
-            js: ["Node", "express", "jQuery", "Typescript", "redux", "rtk", "react-redux", "react-router", "react-router-dom",
-            "mongoose", "axios", "jest", "mocha", "chai", "sinon", "enzyme"],
+        backEnd:
+{            js: ["Node", "express", "jQuery", "Typescript", "redux", "rtk", "react-redux", "react-router", "react-router-dom","jest", "mocha", "chai", "sinon", "enzyme"],
             py: ["Flask", "SQLAlchemy", "Django", "pytest"],
 	    other: ["webpack"]
         },
-        databases: ["SQL", "MySQL", "NoSQL", "PostgreSQL", "Redis"],
+        databases: ["SQL", "MySQL", "PostgreSQL", "Redis"],
         environments: ["Unix", "Linux", "Windows", "Android", "iOS"],
-        tools: ["Git", "VSCode", "WSL2", "Ubuntu", "Vagrant", "Figma", "Postman", "DBeaver",
-        "Xcode", "React DevTools", "Redux-DevTools"]   },{    hobbies: ["Cycling", "Coffee shops", "Camping", "Strategy games"],};
+        tools: ["Git", "VSCode", "Ubuntu", "Figma", "Postman", "DBeaver",
+        "Xcode", "React DevTools", "Redux-DevTools"]   },{    hobbies: ["Gardening", "Cycling", "Coffee shops", "Camping", "Strategy games"],};
 
 	
 ```
