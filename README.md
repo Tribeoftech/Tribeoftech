@@ -45,5 +45,5 @@ const Alex = {
 
 </div>
 <div align="center">
-<em><b>Check out my <a href="https://portfolio-23707.web.app/">Personal Website</a>!</b></em>
+<em><b>Check out my <a href="https://portfolio-23707.web.app">Personal Website</a>!</b></em>
 </div>
