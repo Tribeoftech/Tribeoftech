@@ -2,26 +2,27 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=54b5d2&lines=Hi,+My+name+is+Alex+Dipboye.;I+am+a+Front-End+Web+Developer.)](https://git.io/typing-svg)
 
-'''javascript'''
+```javascript
+// Your JavaScript code here
+```
 
+</div>
 
-iv>
-
-iv align="center">
+<div align="center">
   <p>
-    src="https://github.com/Tribeoftech/Tribeoftech/assets/113186733/c40cad0e-656b-44aa-9287-99f13b09bc92" alt="Image">
-  p>
+    <img src="https://github.com/Tribeoftech/Tribeoftech/assets/113186733/c40cad0e-656b-44aa-9287-99f13b09bc92" alt="Image">
+  </p>
   
   [![My Skills](https://skillicons.dev/icons?i=js,react,jquery,nextjs,nodejs,threejs,vite,swift,py,c,html,css,bootstrap,tailwind,sass,mysql,flask,docker,vscode,postman,firebase,linux,git,blender,figma&theme=light)](https://skillicons.dev)
-iv>
+</div>
 
 <p align="center">
-  src="https://github.githubassets.com/images/mona-loading-default.gif" alt="img" class="center" align="center" width="100px">
-p>
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="img" class="center" align="center" width="100px">
+</p>
 
 <p align="center"> 
   Visitor count
-  src="https://profile-counter.glitch.me/Tribeoftech/count.svg" />
+  <img src="https://profile-counter.glitch.me/Tribeoftech/count.svg" />
 </p>
 
 <div align="center">
@@ -36,5 +37,3 @@ p>
 > Check out my [Personal Website](https://portfolio-23707.web.app)!
 
 </div>
-```
-
