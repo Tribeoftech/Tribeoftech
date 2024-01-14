@@ -12,7 +12,7 @@ Welcome to my collection of projects. Atlas software engineering student graduat
   <p>
     <img src="https://github.com/Tribeoftech/Tribeoftech/assets/113186733/c9a2d3a1-14d9-48d9-b12a-c509c4e93760" alt="Image">
 
-Tools & Things Used
+Tools & Languages used in projects
   </p>
   
   [![My Skills](https://skillicons.dev/icons?i=js,react,jquery,nextjs,nodejs,threejs,vite,swift,py,c,html,css,bootstrap,tailwind,sass,mysql,flask,docker,vscode,postman,firebase,linux,git,blender,figma&theme=light)](https://skillicons.dev)
