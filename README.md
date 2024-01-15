@@ -10,9 +10,8 @@ Welcome to my collection of projects. Atlas software engineering student graduat
 
 <div align="center">
   <p>
-    <img src= "https://github.com/Tribeoftech/Tribeoftech/blob/main/assets/113186733/6c55ee90-d3ed-48a2-ac54-bc5a6756e4a8" alt="Image">
-
-" alt="Image">
+    <img src="https://github.com/Tribeoftech/Tribeoftech/blob/main/assets/113186733/6c55ee90-d3ed-48a2-ac54-bc5a6756e4a8" alt="Image">
+  </p>
 
 Tools & Languages used in projects
   </p>
