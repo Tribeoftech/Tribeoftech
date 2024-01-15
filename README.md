@@ -10,7 +10,7 @@ Welcome to my collection of projects. Atlas software engineering student graduat
 
 <div align="center">
   <p>
-    <img src="![imageedit_7_2295098335 Background Removed](https://github.com/Tribeoftech/Tribeoftech/assets/113186733/4340d24f-b5c1-47dd-850e-65fbbf60d67f)
+    <img src = "https://github.com/Tribeoftech/Tribeoftech/assets/113186733/4340d24f-b5c1-47dd-850e-65fbbf60d67f"
 " alt="Image">
   </p>
 
