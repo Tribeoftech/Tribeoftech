@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=54b5d2&lines=Hi,+My+name+is+Alex+Dipboye.;I+am+a+Front-End+Web+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=54b5d2&lines=Hi,+My+name+is+Alex+Dipboye.;I+am+a+Project-Manager+Software+Engineer.)](https://git.io/typing-svg)
 
 ```javascript
 Welcome to my collection of projects. Atlas software engineering student graduating August 2024. Truly enjoy the city of Tulsa and its tech community. Horitculture, Cycling, Friends and  Family in my free time. Feel Free to connect on linkedIN or reach out by email.
