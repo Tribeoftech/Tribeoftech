@@ -39,6 +39,6 @@ Tools & Languages used in projects
 
 <div align="center">
   
-> Check out my [Portfolio Website](https://tribeoftech.github.io/ )!
+> Check out my [Portfolio Website](https://alexdipboye.carrd.co/ )!
 
 </div>
